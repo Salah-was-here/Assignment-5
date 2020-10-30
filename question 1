@@ -1,0 +1,4 @@
+word = input('Enter a word:\n')
+echo = 'echo'
+if word == input:
+    print(echo)
