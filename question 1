@@ -1,4 +1,8 @@
 word = input('Enter a word:\n')
 echo = 'echo'
-if word == input:
+ECHO = "ECHO"
+if word != echo:
     print(echo)
+elif word != ECHO:
+    print(ECHO)
+        
